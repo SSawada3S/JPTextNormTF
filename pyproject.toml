@@ -1,0 +1,12 @@
+[project]
+name = "JPTextNormTF"
+version = "0.1.0"
+description = "Japanese text normalization utilities"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [{name = "TF"}]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
